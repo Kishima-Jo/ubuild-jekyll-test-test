@@ -8,19 +8,7 @@ media:
   alt_text: ''
 
 ---
-    <!DOCTYPE html>
-    <html lang="">
-      <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <base href="">
-        <title>Nautilus Desktop - uBuild Design Blocks</title>
-        <meta name="author" content="Forestry.io">
-        <meta name="description" content="ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature. This theme provides a set of page-level components and a pre-configured Forestry Blocks UI that will empower content editors to construct their own webpages.">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/forestryio/ubuild-blocks@1.0.0/dist/css/ubuild.css"/>
-      </head>
-      <body>
+    
     
     <header class="block block-header-1">
     
@@ -146,6 +134,3 @@ media:
       </div>
     </section>
     
-    
-      </body>
-    </html>
